@@ -4,7 +4,7 @@
 <html>
 <?php
 $cat = "Charlie";
- echo $cat;
+<p> echo $cat;</p>
 ?>
 </html>
 </body>
